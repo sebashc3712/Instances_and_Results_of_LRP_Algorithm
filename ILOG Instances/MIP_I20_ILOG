@@ -1,0 +1,22 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_MIP_Tolerances_MIPGap                   0.01
+Aggregator has done 300 substitutions...
+Tried aggregator 2 times.
+MIP Presolve eliminated 940500 rows and 34510 columns.
+MIP Presolve modified 906000 coefficients.
+Aggregator did 300 substitutions.
+Reduced MIP has 894105 rows, 903000 columns, and 6243000 nonzeros.
+Reduced MIP has 900000 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 14,97 sec. (17863,10 ticks)
+Probing time = 1,92 sec. (402,36 ticks)
+Tried aggregator 1 time.
+MIP Presolve added 55 rows and 0 columns.
+Reduced MIP has 894160 rows, 903000 columns, and 6243110 nonzeros.
+Reduced MIP has 900000 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 28,68 sec. (6623,46 ticks)
+Probing time = 1,25 sec. (367,71 ticks)
+Clique table members: 3130700.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 4 threads.
+
